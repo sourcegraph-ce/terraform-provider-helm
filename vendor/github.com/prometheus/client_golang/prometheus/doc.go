@@ -28,7 +28,7 @@
 //	package main
 //
 //	import (
-//		"log"
+//		log "github.com/sourcegraph-ce/logrus"
 //		"net/http"
 //
 //		"github.com/prometheus/client_golang/prometheus"

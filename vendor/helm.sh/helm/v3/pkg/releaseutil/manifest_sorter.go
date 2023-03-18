@@ -17,7 +17,7 @@ limitations under the License.
 package releaseutil
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"path"
 	"sort"
 	"strconv"
