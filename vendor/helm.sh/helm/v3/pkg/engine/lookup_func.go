@@ -18,7 +18,7 @@ package engine
 
 import (
 	"context"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	"github.com/pkg/errors"

@@ -20,7 +20,7 @@ import (
 	"bufio"
 	"bytes"
 	"io"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"path/filepath"
 	"strings"
