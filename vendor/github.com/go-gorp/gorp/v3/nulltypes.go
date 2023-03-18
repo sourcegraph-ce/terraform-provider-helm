@@ -6,7 +6,7 @@ package gorp
 
 import (
 	"database/sql/driver"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 )
 

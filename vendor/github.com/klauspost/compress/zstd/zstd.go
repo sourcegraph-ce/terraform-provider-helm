@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"errors"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math"
 	"math/bits"
 )
